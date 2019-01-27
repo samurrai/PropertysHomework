@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\PropertysHomework\PropertysHomework\bin\Debug\PropertysHomework.exe.config
+C:\Users\User\source\repos\PropertysHomework\PropertysHomework\bin\Debug\PropertysHomework.exe
+C:\Users\User\source\repos\PropertysHomework\PropertysHomework\bin\Debug\PropertysHomework.pdb
+C:\Users\User\source\repos\PropertysHomework\PropertysHomework\obj\Debug\PropertysHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PropertysHomework\PropertysHomework\obj\Debug\PropertysHomework.exe
+C:\Users\User\source\repos\PropertysHomework\PropertysHomework\obj\Debug\PropertysHomework.pdb
